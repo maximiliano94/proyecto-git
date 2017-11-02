@@ -1,0 +1,63 @@
+DIV.calendar
+{
+    POSITION: relative
+}
+.calendar
+{
+    BORDER-RIGHT: #565 1px solid;
+    BORDER-TOP: #565 1px solid;
+    FONT-SIZE: 11px;
+    BACKGROUND: #efe;
+    BORDER-LEFT: #565 1px solid;
+    CURSOR: default;
+    COLOR: #000;
+    BORDER-BOTTOM: #565 1px solid;
+    FONT-FAMILY: tahoma,verdana,sans-serif
+}
+.calendar TABLE
+{
+    BORDER-RIGHT: #565 1px solid;
+    BORDER-TOP: #565 1px solid;
+    FONT-SIZE: 11px;
+ BACKGROUND: #efe;
+    BORDER-LEFT: #565 1px solid;
+    CURSOR: default;
+    COLOR: #000;
+    BORDER-BOTTOM: #565 1px solid;
+    FONT-FAMILY: tahoma,verdana,sans-serif
+}
+.calendar .button
+{
+    PADDING-RIGHT: 2px;
+    PADDING-LEFT: 2px;
+    FONT-SIZE: 90%;
+    BACKGROUND: #676;
+    PADDING-BOTTOM: 2px;
+    COLOR: #fff;
+    PADDING-TOP: 2px;
+    TEXT-ALIGN: center
+}
+.calendar .nav
+{
+    BACKGROUND: url(menuarrow.gif) #676 no-repeat 100% 100%
+}
+.calendar THEAD .title
+{
+    PADDING-RIGHT: 2px;
+    PADDING-LEFT: 2px;
+    FONT-WEIGHT: bold;
+    BACKGROUND: #250;
+    PADDING-BOTTOM: 2px;
+    COLOR: #efa;
+    PADDING-TOP: 2px;
+    TEXT-ALIGN: center
+}
+.calendar THEAD .headrow
+{
+}
+.calendar THEAD .name
+{
+    PADDING-RIGHT: 2px;
+    PADDING-LEFT: 2px;
+    PADDING-BOTTOM: 2px;
+    COLOR: #000;
